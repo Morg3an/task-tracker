@@ -25,7 +25,7 @@ This is a simple **Task Manager** built as part of the 30-Day Rust Challenge. It
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/rust-task-manager.git
+    git clone https://github.com/Morg3an/rust-task-manager.git
     cd rust-task-manager
     ```
 2. Build the project:
